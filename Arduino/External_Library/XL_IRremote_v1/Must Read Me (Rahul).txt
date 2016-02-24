@@ -1,0 +1,6 @@
+Note for Arduino 1.0
+you need to change
+#include <WProgram.h>
+to
+#include <Arduino.h>
+in IRRemoteInt.h
