@@ -1,0 +1,4 @@
+Copy the external ibrary folder (Inner folder) to sketch book library folder
+The default library folder is C:\Users\Rahul\Documents\Processing\libraries
+We can see the examples into contributed library.The example will be available
+to both 32Bit and 64Bit version.Remember that the are Not Read Only.
