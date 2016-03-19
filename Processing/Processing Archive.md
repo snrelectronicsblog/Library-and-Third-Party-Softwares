@@ -1,3 +1,5 @@
 # Processing Software Archive
-
-Download Processing 2.0.3 : <a href="http://download.processing.org/processing-2.0.3-windows32.zip">Win 32</a> / <a href="http://download.processing.org/processing-2.0.3-windows64.zip">Win 64</a> 
+<br>
+Serial Communication works only with Windows 32Bit Version.
+<br>
+Download <a href="http://download.processing.org/processing-2.0.3-windows32.zip">Processing 2.0.3 (32Bit)</a>
